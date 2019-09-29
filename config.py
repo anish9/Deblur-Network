@@ -3,15 +3,15 @@
    ---create custom to turn annealer OFF"""
 
 
-Total_epochs        =   60
-Number_of_snapshots =   2 
-Initial_LR          =   1e-4
-RDB_DEPTH           =   8
-upsample_dim        =   2
-Train_count         =   463
-Val_count           =   51
-scale               =   350
-TENSORBOARD_DIR     =   "./tensorboard_files"
+Total_epochs        =   60 #total epochs to run
+Number_of_snapshots =   2 #number of restarts to train efficient (Kinda Regularizer)
+Initial_LR          =   1e-4 #strating learning rate
+RDB_DEPTH           =   8 #Block (causes memory error if <= 22 --GPU dependent)
+upsample_dim        =   2 #upsample the output limit
+Train_count         =   463 #number of training images
+Val_count           =   51 #number of val images
+scale               =   350 #scale the image by
+TENSORBOARD_DIR     =   "./tensorboard_files" #directory to write logs
 
 
 param_maps = {"epochs":Total_epochs,
