@@ -8,6 +8,7 @@ model trained to deblur images
 > opencv 3.6 <= 
 
 ### Results
-![alt text](https://github.com/anish9/Deblur-Network/blob/master/outputs/abc2.jpg)
-![alt text](https://github.com/anish9/Deblur-Network/blob/master/outputs/abc1.jpg)
-![alt text](https://github.com/anish9/Deblur-Network/blob/master/outputs/abc3.jpg)
+<img src="https://github.com/anish9/Deblur-Network/blob/master/outputs/abc3.jpg" alt="Smiley Sface" height="300" width="500">
+<img src="https://github.com/anish9/Deblur-Network/blob/master/outputs/abc2.jpg" alt="Smiley Sface" height="300" width="500">
+<img src="https://github.com/anish9/Deblur-Network/blob/master/outputs/abc1.jpg" alt="Smiley Sface" height="300" width="500">
+
