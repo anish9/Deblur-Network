@@ -16,4 +16,5 @@ model trained to deblur images
 
 ### Inference
 > use inference.ipynb notebook test on own images
+
 > demo model is given on model folder
