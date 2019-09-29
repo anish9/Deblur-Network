@@ -3,8 +3,10 @@ model trained to deblur images
 
 
 ### Requirements
-> Python3.6
+> Python3.6 
+
 > Tensorflow 1.12 <=
+
 > opencv 3.6 <= 
 
 ### Results
