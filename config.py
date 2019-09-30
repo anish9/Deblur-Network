@@ -10,7 +10,7 @@ RDB_DEPTH           =   8 #Block (causes memory error if <= 22 --GPU dependent)
 upsample_dim        =   2 #upsample the output limit
 Train_count         =   463 #number of training images
 Val_count           =   51 #number of val images
-scale               =   350 #scale the image by
+scale               =   250 #scale the image by (subjected to training format)
 TENSORBOARD_DIR     =   "./tensorboard_files" #directory to write logs
 
 
