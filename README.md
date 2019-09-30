@@ -13,9 +13,9 @@ model trained to deblur images
 <img src="https://github.com/anish9/Deblur-Network/blob/master/outputs/abc1.jpg" alt="Smiley Sface" height="300" width="500">
 
 #### Inference
-> use inference.ipynb notebook to test on own images 
+* use inference.ipynb notebook to test on own images 
 
-> demo model is given on model folder (trained on limited classes with default scale(300-350px)---->(600-700px)
+* demo model is given on model folder (trained on limited classes with default scale(300-350px)---->(600-700px)
 
 #### Training
 * set the config on the config file (explanations on config.py itself).
