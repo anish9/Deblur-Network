@@ -19,7 +19,7 @@ model trained to deblur images
 
 
 
-* start training
+#### start training
 ```
 python3 trainer.py
 
